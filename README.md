@@ -1,6 +1,6 @@
-# StayFS README
+# Stay
 
-**StayFS** is a lightweight, browser-based file system library that uses IndexedDB to provide a simple, promise-based API for managing files and directories in the browser. It allows developers to create, read, write, delete, copy, move, and rename files, as well as list directory contents and retrieve file metadata. The library normalizes file paths, supports basic file operations, and is designed to be easy to integrate into web applications.
+**Stay** is a lightweight, browser-based file system library that uses IndexedDB to provide a simple, promise-based API for managing files and directories in the browser. It allows developers to create, read, write, delete, copy, move, and rename files, as well as list directory contents and retrieve file metadata. The library normalizes file paths, supports basic file operations, and is designed to be easy to integrate into web applications.
 
 This README provides a detailed overview of the library, its API, setup instructions, and example use cases.
 
